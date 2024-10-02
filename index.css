@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-image: url('Images/paperWallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: auto;
+    height: 100vh;
+}
+
